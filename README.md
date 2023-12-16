@@ -5,5 +5,5 @@ The objective is to create a multi-class classifier prototype for GoEmotions dat
 The jupyter notebook involves experimention with different:
 Data pre-processing techniques, 
 NLP algorithms/architectures like SVM and LSTM, 
-Feature extraction(Word2Vec and GloVe) 
+Vector embeddings(Word2Vec and GloVe) 
 Hyper-parameters tuning.
